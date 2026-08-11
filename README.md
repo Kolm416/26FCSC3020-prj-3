@@ -45,7 +45,87 @@ A final progress report must be created. We suggest using the provided burndown 
 
 # Self and Team Evaluation 
 
-Students must complete a self-evaluation and evaluate their team members using [this](https://classroom.github.com/a/iD7FFvrA) form. This is a mandatory requirement, and the team’s grade will be placed on hold until all members have submitted their evaluations.
+Please reflect on both your own contributions and those of your teammates using the descriptions provided for each dimension. You may refer back to these descriptions as you consider each person's role in the project.
+
+* Meaningful Contributions: Consider how often and significantly the person contributed to the project. This includes writing code, testing, researching, documenting, or helping solve problems.
+* Value of Contributions: Value goes beyond technical input. It includes contributions in organization, communication, conflict resolution, and other areas that support team success.
+* Collaboration: Collaboration ranges from baseline participation-such as responding when asked-to proactive support like initiating discussions and resolving misunderstandings. Collaboration: can range from basic participation—such as responding when asked—to proactive engagement, like initiating discussions and helping resolve misunderstandings.
+* Initiative and Responsibility: Initiative means stepping up without needing to be asked. Responsibility includes owning tasks, meeting deadlines, and following through on commitments.
+* Communication and Dependability: This includes keeping teammates informed, communicating challenges, and reliably completing assigned tasks.
+* Presence and Availability: Reflect on how consistently the person was present and reachable—attending meetings, responding to messages, and participating in team activities. Note that some team members may contribute meaningfully but be less available than expected.
+* Trust Building: Trust is essential for team success because it creates the foundation for effective collaboration, communication, and accountability. When team members trust each other, they feel safe sharing ideas, asking questions, and giving honest feedback—without fear of judgment or retaliation.
+* Conflict Resolution: Conflict resolution is the process of addressing and resolving disagreements in a constructive and respectful way. It helps team members find common ground, maintain collaboration, and move forward productively.
+* Decision-Making: Decision-making is the process of choosing the best course of action among available options to achieve a goal. It provides direction and keeps the team moving forward.
+
+```
+Your Name: <Last_First_Name>
+```
+
+Rate your collaboration using: 
+* 1 (strongly disagree)
+* 2 (disagree)
+* 3 (neutral)
+* 4 (agree) or 
+* 5 (strongly agree)
+
+```
+[  ] I made meaningful contributions to the project.
+[  ] My contributions were valuable to the team’s success.
+[  ] I supported collaboration within the team.
+[  ] I took initiative and responsibility for my work.
+[  ] I communicated effectively and was dependable.
+[  ] I was present and available to the team as expected.
+[  ] I fostered trust by being reliable, transparent, and respectful in all interactions.
+[  ] I helped resolve disagreements constructively, promoting understanding and collaboration.
+[  ] I contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
+```
+
+```
+Teamate's Name: <Last_First_Name>
+```
+
+Rate their collaboration using: 
+* 1 (strongly disagree)
+* 2 (disagree)
+* 3 (neutral)
+* 4 (agree) or 
+* 5 (strongly agree)
+
+```
+[  ] The team member made meaningful contributions to the project.
+[  ] The team member  contributions were valuable to the team’s success.
+[  ] The team member supported collaboration within the team.
+[  ] The team member took initiative and responsibility for my work.
+[  ] The team member communicated effectively and was dependable.
+[  ] The team member was present and available to the team as expected.
+[  ] The team member fostered trust by being reliable, transparent, and respectful in all interactions.
+[  ] The team member helped resolve disagreements constructively, promoting understanding and collaboration.
+[  ] The team member contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
+```
+
+```
+Teammate's Name: <Last_First_Name>
+```
+
+Rate their collaboration using: 
+* 1 (strongly disagree)
+* 2 (disagree)
+* 3 (neutral)
+* 4 (agree) or 
+* 5 (strongly agree)
+
+```
+[  ] The team member made meaningful contributions to the project.
+[  ] The team member  contributions were valuable to the team’s success.
+[  ] The team member supported collaboration within the team.
+[  ] The team member took initiative and responsibility for my work.
+[  ] The team member communicated effectively and was dependable.
+[  ] The team member was present and available to the team as expected.
+[  ] The team member fostered trust by being reliable, transparent, and respectful in all interactions.
+[  ] The team member helped resolve disagreements constructively, promoting understanding and collaboration.
+[  ] The team member contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
+```
+
 
 # Rubric
 
