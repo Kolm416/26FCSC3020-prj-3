@@ -1,6 +1,10 @@
 # Overview
 
-Use this section to present the product vision, which is a clear statement of the overall goal and purpose of the product—what it aims to achieve, why it exists, and the target audience. Include a **use case diagram** that illustrates the main user interactions. This will give readers a clear and comprehensive overview of the project.
+TaskTrack is a web-based task management application designed to help users stay organized and keep track of their daily responsibilities. The idea behind the application is to provide a simple way to manage tasks without all the extra features and complexity that come with larger project management tools. Users can easily add tasks, view what they need to get done, mark tasks as completed, and delete tasks they no longer need.
+
+The application is intended for students, working professionals, or anyone who wants an easy way to manage their personal to-do lists. Users can create an account and log in to manage their own tasks, keeping their information separate from other users. Each task includes a title and an optional description, giving users the flexibility to add as much or as little detail as they need. As tasks are finished, users can mark them as completed to keep track of their progress.
+
+TaskTrack is built using Python and Flask for the backend, HTML and CSS for the user interface, and SQLite to store user accounts and task information. The focus is on creating an application that is straightforward, functional, and easy to navigate. At the same time, the project provides an opportunity to apply important software engineering concepts, including object-oriented programming, version control, automated testing, and containerized deployment.
 
 # Design (Sprint 1)
 
