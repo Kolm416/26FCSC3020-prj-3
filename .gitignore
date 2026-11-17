@@ -1,0 +1,29 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# Local database
+instance/
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+
+# Coverage temporary files
+.coverage
+coverage.xml
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db

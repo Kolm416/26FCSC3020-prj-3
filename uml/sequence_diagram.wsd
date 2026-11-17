@@ -1,0 +1,90 @@
+
+@startuml
+' CSC3020 - Software Engineering Fundamentals
+' Instructor: Thyago Mota
+' Student(s): Juvia Archuleta, Leigha Lennon
+' Description: Project 3 - TaskTrack
+
+title TaskTrack - Add Task (US4) Sequence Diagram
+
+autonumber
+
+actor "Registered User" as User
+boundary "Web Browser\n(HTML Templates)" as Browser
+control "Task Routes\n(tasks.py)" as Routes
+control "Flask-Login" as Login
+entity "Task Model\n(models.py)" as Task
+control "SQLAlchemy" as DB
+database "SQLite Database" as SQLite
+
+== View Task Page ==
+
+User -> Browser : Open task management page
+Browser -> Routes : GET /tasks
+
+Routes -> Login : Check authenticated user
+Login --> Routes : Current user
+
+alt User is authenticated
+    Routes -> DB : Query tasks for current user
+    DB -> SQLite : SELECT user's tasks
+    SQLite --> DB : Task records
+    DB --> Routes : Task objects
+    Routes --> Browser : Render tasks.html
+    Browser --> User : Display task list
+else User is not authenticated
+    Routes --> Browser : Redirect to login page
+    Browser --> User : Display login page
+end
+
+== Add New Task ==
+
+User -> Browser : Enter title and description
+User -> Browser : Click Add Task
+
+Browser -> Routes : POST /tasks/add
+
+Routes -> Login : Check authenticated user
+Login --> Routes : Current user
+
+alt User is authenticated
+
+    Routes -> Routes : Validate task input
+
+    alt Input is valid
+
+        Routes -> Task : Create Task(title, description, user_id)
+        Task --> Routes : New Task object
+
+        Routes -> DB : Add Task object
+        Routes -> DB : Commit transaction
+        DB -> SQLite : INSERT new task
+        SQLite --> DB : Save successful
+        DB --> Routes : Commit successful
+
+        Routes --> Browser : Redirect to /tasks
+        Browser -> Routes : GET /tasks
+
+        Routes -> DB : Query updated task list
+        DB -> SQLite : SELECT user's tasks
+        SQLite --> DB : Updated records
+        DB --> Routes : Updated task objects
+
+        Routes --> Browser : Render tasks.html
+        Browser --> User : Display updated task list
+
+    else Input is invalid
+
+        Routes --> Browser : Return validation error
+        Browser --> User : Display error message
+
+    end
+
+else User is not authenticated
+
+    Routes --> Browser : Redirect to login page
+    Browser --> User : Display login page
+
+end
+
+@enduml

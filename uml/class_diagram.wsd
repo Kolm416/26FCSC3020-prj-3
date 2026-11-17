@@ -1,0 +1,44 @@
+
+@startuml
+' CSC3020 - Software Engineering Fundamentals
+' Instructor: Thyago Mota
+' Student(s): Juvia Archuleta, Leigha Lennon
+' Description: Project 3 - TaskTrack
+
+title TaskTrack - Class Diagram
+
+left to right direction
+skinparam classAttributeIconSize 0
+
+class User {
+    - id: Integer
+    - username: String
+    - password_hash: String
+    --
+    + set_password(password: String): void
+    + check_password(password: String): Boolean
+    + get_id(): String
+}
+
+class Task {
+    - id: Integer
+    - title: String
+    - description: String
+    - completed: Boolean
+    - user_id: Integer
+    --
+    + mark_complete(): void
+}
+
+class UserMixin {
+    + is_authenticated: Boolean
+    + is_active: Boolean
+    + is_anonymous: Boolean
+    + get_id(): String
+}
+
+UserMixin <|-- User
+
+User "1" -- "0..*" Task : owns
+
+@enduml
