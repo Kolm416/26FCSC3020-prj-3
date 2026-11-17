@@ -10,61 +10,59 @@ Describe the **user stories** for the project, which are short, simple descripti
 
 Use the following template when writing your **user stories**. 
 
-```
 ## US#1: Register Account - 3 Story Points (Sprint 2)
 
 As a new user, I want to create an account so that I can securely manage my personal tasks.
 
 Given that I am a new user, when I enter a valid username and password, then the application creates my account and allows me to log in.
-```
 
-```
+
 ## US#2: Log In - 3 Story Points (Sprint 2)
 
 As a registered user, I want to log in to my account so that I can access and manage my personal tasks.
 
 Given that I have a registered account, when I enter my correct username and password, then the application logs me in and allows me to access my task list.
-```
 
-```
+
+
 ## US#3: Log Out - 1 Story Points (Sprint 2)
 
 As a logged-in user, I want to log out of my account so that my personal tasks remain secure when I am finished using the application.
 
 Given that I am logged in, when I select the logout option, then the application ends my session and redirects me to the login page.
-```
 
-```
+
+
 ## US#4: Add Task - 3 Story Points (Sprint 3)
 
 As a registered user, I want to add new tasks so that I can keep track of the things I need to complete.
 
 Given that I am logged in, when I enter a task title and optional description and submit the form, then the application saves the task and displays it in my task list.
-```
 
-```
+
+
 ## US#5: View Tasks - 2 Story Points (Sprint 3)
 
 As a registered user, I want to view my tasks so that I can see what I need to complete and what I have already finished.
 
 Given that I am logged in, when I open the task management page, then the application displays my saved tasks along with their completion status.
-```
 
-```
+
+
 ## US#6: Complete Task - 2 Story Points (Sprint 3)
 
 As a registered user, I want to mark tasks as completed so that I can track my progress.
 
 Given that I have an incomplete task, when I select the complete option, then the application updates the task's status and displays it as completed.
-```
 
-```
+
+
 ## US#7: Delete Task - 2 Story Points (Sprint 3)
 
 As a registered user, I want to delete tasks that I no longer need so that I can keep my task list organized.
 
 Given that I have an existing task, when I select the delete option, then the application removes the task and updates my task list.
-```
+
 
 ## Sequence Diagram
 
