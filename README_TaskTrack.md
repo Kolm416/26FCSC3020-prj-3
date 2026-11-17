@@ -2,7 +2,7 @@
 
 Use this section to present the product vision, which is a clear statement of the overall goal and purpose of the product—what it aims to achieve, why it exists, and the target audience. Include a **use case diagram** that illustrates the main user interactions. This will give readers a clear and comprehensive overview of the project.
 
-# Design
+# Design (Sprint 1)
 
 ## User Stories
 
