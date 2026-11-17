@@ -60,11 +60,11 @@ As a registered user, I want to delete tasks that I no longer need so that I can
 Given that I have an existing task, when I select the delete option, then the application removes the task and updates my task list.
 
 
-## Sequence Diagram
+## Sequence Diagram (Sprint 1)
 
 At least one **user story**, unrelated to user creation or authentication, must be detailed using a **sequence diagram**. A **sequence diagram** is a type of UML diagram that shows how objects interact in a particular scenario, emphasizing the order of messages exchanged between components over time. This helps visualize the flow of operations and the responsibilities of different parts of the system.
 
-## Model 
+## Model (Sprint 1)
 
 Include a **class diagram** that clearly describes the **model classes** used in the project and their associations. A **class diagram** is a UML diagram that represents the structure of the system by showing its classes, their attributes, methods, and the relationships between them (such as inheritance, aggregation, or composition). This helps visualize how the data and logic are organized within the application.
 
