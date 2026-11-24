@@ -4,21 +4,17 @@ Date: 11/16/2026
 
 Participants: Juvia Archuleta, Leigha Lennon
 
-Goal Statement: The goal of this sprint is to establish the foundation for TaskTrack by defining the project requirements, identifying user stories, creating UML diagrams, and setting up the GitHub repository and initial project structure.
+Goal Statement: Establish the project requirements, complete the initial project setup, and design the TaskTrack application.
 
 # Weekly Scrum
 
 Participants: Juvia Archuleta, Leigha Lennon
 
-Discussed potential project ideas and selected a simple task management application.
+Work focused on defining the project scope, creating user stories, establishing the GitHub repository, and completing the use case, class, and sequence diagrams.
 
-Established the product vision and identified the target audience.
+Seven user stories were established and assigned a total of 16 story points. The project was divided into four sprints.
 
-Defined the scope of the application to keep development manageable for a two-person team.
-
-Selected Python, Flask, SQLite, HTML, and CSS as the development technologies.
-
-Divided the project into four sprints.
+Messages were sent throughout the week as updates were made to keep each other informed.
 
 # Sprint Review
 
@@ -34,10 +30,10 @@ Date: 11/19/2026
 
 Participants: Juvia Archuleta, Leigha Lennon
 
-Completed stories: 
+Completed stories: N/A – Planning and design phase
 
-Completed story points: 
+Completed story points: 10
 
-Remaining project points: 
+Remaining project points: 27 out of 37
 
-Result: 
+Result: Project planning, initial project setup, user stories, and UML diagrams were completed. The project was prepared for development in Sprint 2.
