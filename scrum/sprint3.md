@@ -1,6 +1,6 @@
 # Sprint Planning
 
-Date: 
+Date: 11/23/2026
 
 Participants: Juvia Archuleta, Leigha Lennon
 
@@ -22,7 +22,7 @@ Notes...
 
 # Sprint Retrospective
 
-Date: 
+Date: 11/23/2026
 
 Participants: Juvia Archuleta, Leigha Lennon
 
