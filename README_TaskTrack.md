@@ -80,7 +80,7 @@ This section should describe, in general terms, how Scrum was applied in the pro
 |---|---|---|---|---|---|
 |1|Project planning, requirements, user stories, UML diagrams, and GitHub setup|11/16/26|11/17/26|Project planning, requirements, user stories, UML diagrams, and GitHub setup|Establish the project structure, define requirements, and create the use case, class, and sequence diagrams.|
 |2|US1, US2, US3|11/18/26|11/23/26|US1, US2, US3|Implement user registration, login, and logout functionality, including database integration.|
-|3|US4, US5, US6, US7|mm/dd/26|mm/dd/26|US4, US5, US6, US7|Implement task creation, task viewing, task completion, and task deletion.|
+|3|US4, US5, US6, US7|11/24/26|mm/dd/26|US4, US5, US6, US7|Implement task creation, task viewing, task completion, and task deletion.|
 |4|White-box testing, black-box testing, coverage report, Docker deployment, and final documentation|mm/dd/26|mm/dd/26|White-box testing, black-box testing, coverage report, Docker deployment, and final documentation|Verify application functionality, generate the HTML coverage report, test Docker deployment, complete the burndown chart, and finalize the README.|
 
 
