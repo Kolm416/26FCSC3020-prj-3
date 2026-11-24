@@ -26,7 +26,7 @@ This was the first sprint so there was nothing to review at this time.
 
 # Sprint Retrospective
 
-Date: 11/19/2026
+Date: 11/16/2026
 
 Participants: Juvia Archuleta, Leigha Lennon
 
