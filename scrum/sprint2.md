@@ -26,7 +26,7 @@ Reviewed the implementation of US1, US2, and US3, including user registration, l
 
 # Sprint Retrospective
 
-Date: 11/18/2026
+Date: 11/23/2026
 
 Participants: Juvia Archuleta, Leigha Lennon
 
