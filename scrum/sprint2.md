@@ -34,6 +34,6 @@ Completed stories: US1, US2, US3
 
 Completed story points: 7
 
-Remaining project points: 9 out of 16
+Remaining project points: 20 out of 37
 
 Result: User registration, login, logout, database configuration, and the initial user interface were completed. The application was prepared for task management development in Sprint 3.
