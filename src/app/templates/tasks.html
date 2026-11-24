@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block title %}My tasks{% endblock %}
+
+{% block content %}
+  <h1>My tasks</h1>
+  <p>Signed in as <strong>{{ current_user.username }}</strong>.</p>
+  <p>Your task list is empty.</p>
+{% endblock %}

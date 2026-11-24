@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}Register{% endblock %}
+
+{% block content %}
+  <h1>Create an account</h1>
+
+  {# US1: Submit credentials for a new account. #}
+  <form class="account" method="post">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+
+    <label for="username">Username</label>
+    <input id="username" name="username" autocomplete="username"
+           maxlength="80" required>
+
+    <label for="password">Password</label>
+    <input id="password" name="password" type="password"
+           autocomplete="new-password" required>
+
+    <button type="submit">Create an account</button>
+  </form>
+{% endblock %}
