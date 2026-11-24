@@ -22,7 +22,7 @@ Notes...
 
 # Sprint Retrospective
 
-Date: 11/23/2026
+Date: N/A
 
 Participants: Juvia Archuleta, Leigha Lennon
 
