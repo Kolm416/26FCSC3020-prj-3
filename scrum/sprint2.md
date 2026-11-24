@@ -1,6 +1,6 @@
 # Sprint Planning
 
-Date: 11/19/2026
+Date: 11/18/2026
 
 Participants: Juvia Archuleta, Leigha Lennon
 
@@ -18,7 +18,7 @@ Messages were sent throughout the week as updates were made to keep each other i
 
 # Sprint Review
 
-Date: N/A
+Date: 11/23/2026
 
 Participants: Juvia Archuleta, Leigha Lennon
 
@@ -26,7 +26,7 @@ Reviewed the implementation of US1, US2, and US3, including user registration, l
 
 # Sprint Retrospective
 
-Date: 11/19/2026
+Date: 11/18/2026
 
 Participants: Juvia Archuleta, Leigha Lennon
 
